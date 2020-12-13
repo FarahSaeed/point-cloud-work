@@ -1,10 +1,10 @@
 ### Runs
 
-(1) Pointnet on shapenet data (https://github.com/FarahSaeed/point-cloud-work/blob/main/models/pointnet/pointnet.ipynb)
+(1) [Pointnet on shapenet data](https://github.com/FarahSaeed/point-cloud-work/blob/main/models/pointnet/pointnet.ipynb)
 
-(2) Pointnet2 on shapenet data (https://github.com/FarahSaeed/point-cloud-work/blob/main/models/pointnet2/pointnet2.ipynb)
+(2) [Pointnet2 on shapenet data](https://github.com/FarahSaeed/point-cloud-work/blob/main/models/pointnet2/pointnet2.ipynb)
 
-(3) Pointnet2 on plant data (https://github.com/FarahSaeed/point-cloud-work/blob/main/models/Pointnet_Pointnet2_pytorch/pointnet2.ipynb)
+(3) [Pointnet2 on plant data] (https://github.com/FarahSaeed/point-cloud-work/blob/main/models/Pointnet_Pointnet2_pytorch/pointnet2.ipynb)
 
 ### Pointnet
 
@@ -28,4 +28,5 @@
 
 ### Utilities
 
-- Annotation in Open3d (https://github.com/FarahSaeed/point-cloud-work/tree/main/utilities/annotation/segmentation/open3d)
+- [Annotation in Open3d](https://github.com/FarahSaeed/point-cloud-work/tree/main/utilities/annotation/segmentation/open3d)
+- [Visualisation in matlab](https://github.com/FarahSaeed/point-cloud-work/tree/main/utilities/visualisation)

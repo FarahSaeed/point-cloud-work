@@ -3,7 +3,7 @@
 
 Original repo is from (https://github.com/yanx27/Pointnet_Pointnet2_pytorch)
 
-## To run:
+## To run
 (1) pointnet2.ipynb shows workflow.
 
 ## Pytorch Implementation of PointNet and PointNet++ 
